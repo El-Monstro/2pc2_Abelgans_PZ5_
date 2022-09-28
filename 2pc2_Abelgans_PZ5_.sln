@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2pc2_Abelgans_PZ5_", "2pc2_Abelgans_PZ5_\2pc2_Abelgans_PZ5_.csproj", "{01A995DA-6CC8-47FD-80B5-4D23DE09CF4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01A995DA-6CC8-47FD-80B5-4D23DE09CF4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01A995DA-6CC8-47FD-80B5-4D23DE09CF4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01A995DA-6CC8-47FD-80B5-4D23DE09CF4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01A995DA-6CC8-47FD-80B5-4D23DE09CF4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1CAF4A3-D26C-4BA4-9875-FE1429621185}
+	EndGlobalSection
+EndGlobal
